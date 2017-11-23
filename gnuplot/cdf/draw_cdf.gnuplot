@@ -1,5 +1,4 @@
 # cd 'directory path e.g. D:\test\'
-cd 'D:\tmp\gnuplot_cdf'
 set terminal png
 set output 'cdf_output.png'
 set yrange [0:1]
